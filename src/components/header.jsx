@@ -3,7 +3,7 @@ import Button from "./button";
 
 const Header = () => {
   return (
-    <header className="flex justify-around flex-row w-full h-28 items-center">
+    <header className="flex justify-around flex-row w-full py-8 items-center">
       <h1 className="font-semibold text-4xl text-orange-500 pr-5 cursor-pointer">
         pairbank.
       </h1>
@@ -17,7 +17,7 @@ const Header = () => {
       </div>
       <div className="flex gap-8">
         <Button
-          className="bg-orange-500 p-3 rounded-lg font-semibold text-white hover:bg-orange-600 transition duration-300"
+          className="flex justify-center items-center bg-orange-500 p-3 rounded-lg font-semibold text-white hover:bg-orange-600 transition duration-300"
           label="Entrar"
         />
         <Button
