@@ -18,8 +18,8 @@ const Feedbacks = () => {
             MARK BERGZUCK
           </h3>
           <p className="font-semibold text-xl w-80">
-            Sou realmente muito fã desse banco digital. Meu uso nele é tão
-            rápido que nunca mais tive dor de cabeça usando outro banco.
+            "Sou realmente muito fã desse banco digital. Meu uso nele é tão
+            rápido que nunca mais tive dor de cabeça usando outro banco."
           </p>
         </div>
         <div className="flex flex-col gap-5">
@@ -27,8 +27,8 @@ const Feedbacks = () => {
             ELON DUSK
           </h3>
           <p className="font-semibold text-xl w-80">
-            PairBank é líder de mercado. As funcionalidades e velocidade de como
-            funciona as coisas dentro dessa plataforma são espetaculares.
+            "PairBank é líder de mercado. As funcionalidades e velocidade de
+            como funciona as coisas dentro dessa plataforma são espetaculares."
           </p>
         </div>
         <div className="flex flex-col gap-5">
@@ -36,8 +36,9 @@ const Feedbacks = () => {
             STEVE POPS
           </h3>
           <p className="font-semibold text-xl w-80">
-            Sou realmente muito fã desse banco digital. Meu uso nele é tão
-            rápido que nunca mais tive dor de cabeça usando outro banco.
+            "Nunca mais tive nenhuma reclamação dos meus clientes depois de
+            indicar esse banco pra eles. Ele é rápido demais, e ainda não cobra
+            taxas."
           </p>
         </div>
       </div>
