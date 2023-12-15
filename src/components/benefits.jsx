@@ -14,7 +14,7 @@ const Benefits = () => {
       <p className="font-semibold text-3xl">
         Por que usar <span className="text-orange-600">PairBank</span>?
       </p>
-      <div className="display grid grid-cols-3 gap-8">
+      <div className="display grid grid-cols-3 gap-8 pb-10">
         <div className="flex flex-col gap-5 py-14 px-10 rounded-md bg-white">
           <GoCreditCard size={30} className="text-orange-600" />
           <h1 className="font-semibold text-lg">Cartão PairBank</h1>
